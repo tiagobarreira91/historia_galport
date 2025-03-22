@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Timeline Integrada com Flask</title>
+
+    <!-- Script do timeline.js -->
+    <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+
+    <!-- Fonte Cinzel via Google Fonts (Agora antes de usá-la) -->
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700&display=swap" rel="stylesheet">
+
+     <!-- Fonte Inria Sans via Google Fonts -->
+     <link href="https://fonts.googleapis.com/css2?family=Inria+Sans&display=swap" rel="stylesheet">
+
+
+    <!-- Estilos CSS do timeline.js -->
+    <link rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+
+    <!-- Estilos CSS do timeline.js -->
+    <link rel="stylesheet" href="timeline.css">
+
+    <style>
+        /* Estilos para o corpo da página */
+        body {
+            font-family: 'Arial', sans-serif; /* Fonte padrão */
+            background-color: #F0EAD9; /* Cor de fundo suave */
+            color: #4C4C4C; /* Cor do texto */
+            padding: 20px;
+        }
+
+        /* Estilos para o título */
+        h2 {
+            font-family: 'Inria Sans', sans-serif; /* Fonte Inria Sans */
+            text-align: left; /* Alinha o título à esquerda */
+            color: #4C4C4C; /* Cor do título */
+        }
+
+        /* Ajustes no tamanho e layout da timeline */
+        #timeline-embed {
+            width: 100%;
+            height: 600px;
+            border: 2px solid #F0CC79; /* Bordas suaves */
+            background-color: #fff; /* Fundo branco para o painel */
+        }
+
+        /* Estilo adicional para links, se houver */
+        a {
+            color: #007bff; /* Cor padrão para links */
+            text-decoration: none; /* Sem sublinhado */
+        }
+    </style>
+</head>
+<body>
+    <h2>REVISTA STELLA ITINERIS</h2>
+    <div id="timeline-embed"></div>
+
+    <!-- Script para o arquivo script.js (se necessário) -->
+    <script src="script.js"></script>
+</body>
+</html>
