@@ -1,4 +1,4 @@
-from flask import Flask, jsonify
+from flask import Flask, jsonify, send_from_directory
 import csv
 import os
 
@@ -56,6 +56,13 @@ def get_timeline():
     }
     
     return jsonify(timeline_data)
+
+
+@app.route('/')
+def index():
+    # Serve o arquivo index.html diretamente da pasta static
+    return send_from_directory(os.path.join(app.root_path, 'static'), 'index.html')
+
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
