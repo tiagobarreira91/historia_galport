@@ -8,7 +8,7 @@ app = Flask(__name__)
 def load_events_from_csv():
     events = []
     
-    with open('linea_tiempo2.csv', mode='r', encoding='utf-8', errors='ignore') as file:
+    with open('linea_tiempo2.csv', mode='r', encoding='Windows-1252', errors='ignore') as file:
         csv_reader = csv.DictReader(file, delimiter=';')  # Define ';' como delimitador
         
         for row in csv_reader:
