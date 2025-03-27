@@ -117,3 +117,26 @@ input[type="text"].editor-headline {
     font-size: 46px;
     line-height: 46px;
 }
+
+/* Aumentar a fonte dos marcadores de tempo */
+/*
+.tl-timenav {
+    background-color: #b5ceff !important; }/* Escolha a cor desejada */
+/*
+
+
+/* Personalizar o ícone/thumbnail da timeline */
+.tl-timemarker-media-container {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/6/6f/Spain_flag_300.png'); /* Substitua pelo caminho real */
+    background-size: cover; /* Ajusta a imagem para cobrir todo o espaço */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita repetições */
+    width: 50px; /* Ajuste o tamanho conforme necessário */
+    height: 50px;
+    border-radius: 50%; /* Deixa o ícone circular (opcional) */
+}
+
+
+.tl-timemarker .tl-timemarker-content-container {
+    width: 40px;
+}

@@ -1,0 +1,126 @@
+
+    
+    <h1> Historia Medieval Gallego-Portuguesa </h1>
+    <h2>Una línea del tiempo sobre los eventos más importantes en la historia de Galicia, desde la época romana hasta la Edad Media.</h2>
+
+
+    <div class="img-container">
+    <img src="static/Sin título.jpg" alt="Texto Informativo" class="text-image">
+    </div>
+    <h2>Pequeña introducción al aprender a pensar históricamente para comprender los hechos de la línea cronológica expuesta</h2>
+
+    <h3>Los Orígenes del Brasil Lusófono</h3>
+
+    <p>Para encontrar los orígenes del actual Brasil lusófono como país independiente en el conjunto latinoamericano, y claramente diferenciado del resto de entidades políticas que lo rodean en cuanto a cuestión lingüística se refiere, hemos de indagar en la Historia dónde se encuentra el nacimiento de Portugal, claramente, por los lazos de hermandad que le unen a él. ¿Y dónde situamos a Portugal? Para ello tenemos que presentarles a Galicia. Una pequeña región del noroeste peninsular español que actualmente limita por el norte con Asturias, por el este con la Comunidad de Castilla y León (en las provincias de Zamora y León) y con Portugal por el sur.</p>
+
+    <h3>La Unidad Inicial de Galicia y Portugal</h3>
+
+    <p>En los comienzos, las actuales Galicia y Portugal estaban unidas, formaban una misma masa regida por las mismas políticas, tradiciones culturales (que, de hecho, aún mantienen en gran medida)… Pero no se llamaban así. A lo largo de la Historia estos territorios se incluyeron bajo otras denominaciones: reino suevo, reino astur, reino de León… Las idas y venidas no fueron pocas… ¿Quieren un spoiler? Portugal podemos decir que nace en el siglo XII, con Alfonso Henriques, hijo de Henrique de Borgoña (procedente de la casa condal de Borgoña, en la actual Francia) y Doña Teresa (Tareixa, hija ilegítima del rey leonés Alfonso VI, pero la ilegitimidad en aquellos tiempos no era motivo para no tener derecho a acceder al dominio de un territorio). Este Alfonso Henriques, por ser considerado el primer rey de Portugal, pasará a la Historia con el nombre de Alfonso I y gobernará entre 1139-1185.</p>
+
+    <h3>Reflexión Crono-Espacial sobre la Historia de Galicia</h3>
+
+    <p>Para entender los hechos aquí señalados deberemos atender a una pequeña reflexión de carácter crono-espacial. Cuando, en nuestros días, hablamos de “Historia medieval de Galicia”, debemos señalar que lo hacemos con un empleo del lenguaje que no es el correcto. Ahora entenderán… La Galicia que hoy conocemos, aquella comunidad autónoma del noroeste peninsular del país español, no siempre se llamó así, no siempre poseyó los mismos límites territoriales, no siempre su nombre fue relacionado a una demarcación política, a veces se refería más bien a una demarcación “cultural” (de raza, como se diría en el siglo XIX, el siglo del darwinismo social en el que se aceptaba la existencia de razas superiores e inferiores y el deber de las primeras de “educar” a las segundas y el deber de las segundas en “dejarse enseñar y dominar).</p>
+
+    <h3>El Libro Importante: Celtas, Castrexos e Romanos</h3>
+
+    <p>Para comprender el concepto que a día de hoy tenemos de Galicia será de gran importancia el libro: <em>Celtas, Castrexos e romanos: á procura dun pasado na historia de Galicia</em>. Editado por la editorial Xerais. Escrito para el público general, con la tentativa de educar al público gallego, de hacerlo asequible a todos, y con el propósito de que los gallegos conozcan su propia historia y, con ello, a ellos mismos, el libro nos viene a decir lo siguiente: para entender la Historia de Galicia, hemos de comprender ¿qué es la historiografía?</p>
+
+    <h3>La Historiografía y la Subjetividad en la Historia</h3>
+
+    <p>El historiador realiza su trabajo en base a documentos, y con ellos construye el relato netamente histórico que da a conocer a la sociedad (este relato, es inevitable, que cuente con algo de subjetividad, puesto que los seres humanos no nos podemos alejar de nuestras inclinaciones ideológicas, somos indisociables de ellas, pero labor del verdadero historiador es saber mantenerlas a raya con provecho). Así como el Historiador utiliza como fuente los documentos, para el que hace Historiografía, sus documentos serán aquellos escritos que otros historiadores hayan realizado en base a los documentos históricos que han analizado y estudiado, es decir: los “historiógrafos” (entre comillas, puesto que no es una disciplina independiente de por sí stricto sensu) se dedican al estudio de la escritura de la Historia, al estudio de cómo otros historiadores han analizado, estudiado pero sobre todo interpretado los documentos históricos. Esto es de suma importancia en tanto que las maneras de entender los documentos, se verán realmente afectadas según el contexto histórico en el que nos encontremos.</p>
+
+    <h3>El Anacronismo Histórico</h3>
+
+    <p>Les pondré un ejemplo, en tiempos más contemporáneos, con los movimientos de Nueva Izquierda, los movimientos independentistas suelen relacionarse con tendencias ideológicas de izquierda, sin embargo, el nacionalismo del siglo XIX (siglo, de hecho, conocido como “el de los nacionalismos”) presenta unas ideas que, a día de hoy calificaríamos de “derechas”. Pero ¿sería correcto calificarlas así? ¿Sería correcto utilizar un término inmediatamente contemporáneo para denominar un hecho del pasado? En opinión de los historiadores, no. Puesto que se incurre en lo que se llama: anacronismo histórico.</p>
+
+    <p>Una vez hemos comprendido la diferencia entre Historia e Historiografía, hablemos de lo que este libro nos comenta acerca de Galicia. El título es un completo spoiler. ¿Por qué? Porque los lectores procuran en este volumen la búsqueda del pasado, de su comprensión (“á procura dun pasado na Historia de Galicia”) y para ello daránzarán entre celtas, castrexos y romanos. ¿Qué tiene que ver esto con Portugal? ¿Y con Brasil? Todo. Ahora entenderán…</p>
+
+    <p>Sitúense en el siglo XIX, siglo de nacionalismos… Se le conoce así puesto que es el siglo en el que cada Estado-nación busca diferenciarse del resto como entidades políticas propias, diferenciadas, con una tradición histórica secular (a poder ser milenaria). En otras palabras, y resumiendo, los Estados-Nación europeos buscan defender su existencia desde hace muchos, muchos años. Estamos en el tiempo del darwinismo social, el tiempo en el que unas naciones “estaban por encima de otras”, el tiempo de los colonialismos (paradójicamente será el tiempo en el que naciones como España, precisamente pierdan los territorios que llevaban siglos bajo su dominio, resulta curioso como otras potencias europeas los adquieren, y España los pierde luego de haberlos poseído por largo tiempo en ese famoso imperio donde “nunca se ponía el sol”…)</p>
+
+    <h3>El pensamiento ideológico del siglo XIX y su enfoque en las razas</h3>
+
+    <p>¿Y en qué se basa todo el pensamiento ideológico en el XIX? En el concepto de raza. En la idea de que existen razas distintas, pero no sólo eso, sino que estas razas se diferencian en que unas son más fuertes que otras y unas deben dominar y otras ser dominadas.</p>
+
+        <p>El Estado español silenciará, para su construcción del relato histórico, el devenir
+    histórico de zonas como Cataluña, País Vasco o Galicia. Pero no nos confundamos, esto
+    tampoco es tan negro como hoy en día se pretende hacer creer dentro de estas
+    comunidades españolas. Todos conocemos en España los famosos nacionalismos más
+    contemporáneos de estas tres comunidades y cómo utilizan como argumento la
+    “opresión” sufrida desde siempre por parte del conjunto español para silenciar su
+    Historia. Reflexionen sobre esto que les voy a decir: en el siglo XIX, “España” silenció
+    todo relato histórico que no fuese prácticamente el de Castilla. ¿Dónde queda pues
+    Murcia, Andalucía (la famosa Andalucía que ocupó el pueblo musulmán tampoco era
+    tenida en cuenta, o, bueno, sí… para decir “que fuimos capaces de expulsar a los
+    musulmanes”, como si nuestra sociedad de hoy en día no fuese fruto de las eternas
+    relaciones entre pueblos, como si los musulmanes estuviesen por debajo de otros
+    pueblos llegados a la península Ibérica como los cartagineses, los romanos…) dónde
+    queda Extramadura, o Valencia? ¿Y las islas? ¿Creen que le importaba a Modesto
+    Lafuente en su “Historia general de España” las siete islas Canarias? Lo que les quiero
+    hacer ver con todo esto es que, las nuevas tendencias nacionalistas de izquierdas tienden
+    a hacernos ver que Galicia, País Vasco y Cataluña, han sufrido una mayor postración
+    que el resto y ¿saben por qué?, precisamente porque cuentan con un elemento
+    diferenciador clave que, de hecho, las hacen más fuerte de lo que parece: un idioma
+    propio. Y es que, en las nuevas tendencias nacionalistas, tener idioma propio es
+    fundamental.</p>
+
+     <p>Así tenemos que, en el XIX se creía en la existencia de razas: en Galicia, Manuel
+    Murguía, entre otros, defendía a los celtas, llegados de Centroeuropa en tiempos
+    prehistóricos, que se asientan en el noroeste peninsular (ocupando, claramente, zonas
+    del actual Portugal). Unos tipos rubios y altos (claramente atributos que en aquellos
+    tiempos eran símbolo de superioridad, de alguna manera). La cosa cambia entrando en
+    el siglo XX, no sólo porque ahora los tipos ya no eran altos y rubios, se creía que eran
+    más bajos y morenos, sino porque ahora el elemento diferenciador no es el de “raza”
+    sino el de “registro arqueológico”, es decir, las diferencias se establecen en base a los
+    elementos arqueológicos, a los materiales encontrados en las excavaciones de zonas
+    habitacionales prehistóricas.</p>
+
+    <h3>El estudio arqueológico de Galicia y su cultura castreña</h3>
+
+
+    <p>Diferentes estudiosos del continente europeo, sobre todo alemanes y franceses,
+    se sentirán realmente atraídos por el territorio gallego, y portugueses de cuna, llevarán a
+    cabo las mismas labores en su propio país. De estos nuevos estudios, también realizados
+    con una nueva metodología de la Historia, no sólo en cuanto a instrumental se refiere,
+    sino con una nueva forma de comprender la Historia, se determinará la existencia de
+    una cultura propia en el territorio gallego- portugués (y que también ocuparía un poco
+    algunas Comunidades actuales españolas como Asturias o incluso Cantabria): los
+    castreños (castrexos, en gallego).</p>
+
+    
+    <p>¿Podríamos decir que hablamos de una nueva raza? No, absolutamente no, de ninguna manera. Ahora ya no hay razas, avanzando el siglo XX ahora lo que hay son culturas. Los celtas, son raza, los castreños, son cultura. Cultura con registro material. Pueblo, con útiles materiales que, por sus diferencias con respecto a otros existentes en otras zonas de la península o Europa, merecen ser diferenciados de éstos y llevar nombre propio. De tal manera que ahora, los orígenes de la actual Galicia los encuentran los historiadores en una cultura desarrollada dentro de la península, que lleva por nombre “Castreños”, que se extiende por Portugal y comparte rasgos en sus útiles con la morfología de los encontrados en zonas de Asturias, pero sin ser exactamente la suya.</p>
+
+    <p>De ahí surgirán muchos eslóganes como “Galicia Castreña”, relacionando esto con una especie de Galicia mística, legendaria, llena de mitos, cuentos, leyendas y seres mágicos de variada tipología. El hecho de simbolizar a la Galicia Castreña con elementos como, por ejemplo, el conocido “trisquel”, provoca lugar a confusiones y provoca que imaginemos una Galicia de cuento de hadas. Un país lleno de nieblas, de seres fantásticos. Lo peor no es que sólo condiciona el conocimiento que tenemos del pasado gallego, vinculando todo hecho histórico a explicaciones paranormales en muchos casos, sino que afecta a como hoy en día, Galicia, es concebida para el resto de España: “Terra máxica” y, Portugal, es casi que prácticamente la Galicia que perdimos…</p>
+
+    <h3>El concepto de Historia y la objetividad de los historiadores</h3>
+
+    <p>¿Cómo les explicamos los historiadores que nadie perdió ni nadie ganó? ¿Qué no es cuestión de derechas o de izquierdas? Que los hechos suceden, y ya. Que los historiadores sólo estudiamos el pasado de manera objetiva, o eso procuramos. Que no somos adivinadores de futuro, tan sólo proyectores de un posible futuro en base a que los hechos suelen repetirse cuando presentan un mismo patrón.</p>
+
+    <p>En Portugal se celebran de alguna manera aquellos días en los que consiguieron su independencia (es decir, si leemos entre líneas, entre líneas se celebra la victoria sobre la actual España). Y en España no se celebra nada, porque nadie celebra un partido perdido. Yo les quiero decir: españoles, portugueses, sois hermanos, si tan sólo supierais que el nacimiento de Portugal es uno de los nacimientos, que acabarían dando lugar a una potencia increíble en poderío de todo tipo, más pacíficos de los que se conocen… Alfonso Henriques no necesitó enfrentarse a Alfonso Raimúndez (Alfonso VII) de manera abrupta para ir creando “su Portugal independiente”. Además de que… Es imposible que Portugal ganase a España y por eso nació como ente político independiente. ¿Saben por qué? Porque España no existe como tal hasta la Edad Moderna, prácticamente. Si nos ponemos exquisitos, hasta el siglo XIX (siglo de los nacionalismos, ya saben), pero vale, abramos el abanico y digamos que España nace con los Reyes Católicos cuando juntan las coronas de Castilla y Aragón (aunque cójanlo con pinzas, puesto que por aquel entonces aún andaba Boabdil por Granada, y si España pretende ser España sin los musulmanes, es obvio que aún habría que echarlo de Granada… no sólo a él, sino a todos los moriscos que habitaban aún otras zonas peninsulares…).</p>
+
+    <p>En fin… Lo que tiene la historiografía ¿verdad? Vaya lío nos ha montado en la cabeza. ¿Qué es más importante la Historia o la Historiografía? Porque lo que la sociedad en general conoce de Historia es aquello que la Historiografía le enseña y la Historiografía suele ser mucho más subjetiva que la Historia, ya que, como dijimos, no es el estudio de los documentos, sino el estudio de lo que otros escribieron en base a los documentos.</p>
+
+
+    <h3> Los romanos y los gallegos: el origen de Galicia</h3>
+
+
+    <p>Vamos a quedarnos con eso último dicho sobre los musulmanes porque nos sirve para entender la última parte del libro mencionado. Los romanos. “Los grandiosos romanos”. Los que trajeron los acueductos, las calzadas, los baños públicos, el derecho, el latín. Y ¡ahí está la nueva clave!</p>
+
+    <p>Años 70-80 del siglo XX, ahora el pasado de Galicia, con los nuevos movimientos de nacionalismos vinculados a la derecha (ya totalmente diferentes en cuanto a ideas de aquellos del siglo XIX), buscan crear entidades políticas diferenciadas en las que el elemento diferenciador clave es: el idioma. ¿Y de dónde viene el gallego? ¡Exacto, del latín! Roma no sólo se considera entonces como aquella que contribuyó al desarrollo del pueblo gallego sino como la creadora <span class="highlight">ni más ni menos que de Galicia</span>. Roma crea Galicia.</p>
+
+    <p>¿No es increíble la historiografía y su poder? Los romanos traen el latín, el latín empieza a ser “malhablado” y surge el gallego-portugués, luego va emergiendo uno que todos conocemos: el castellano (Alfonso X el Sabio lo potenciará bastante en detrimento del gallego-portugués a pesar de haberse criado en Galicia), lengua que ganará poder al marchar la nobleza gallega a Castilla en tiempos de la Edad Moderna y al ser substituidos por nobles castellanos en los poderes gallegos. Pero la cosa no queda ahí, y es que resulta que entre 1939 y 1974 (dictadura franquista) en los colegios españoles, el gallego se estudia como ¡dialecto del castellano! ¡Ayyy la Historia! ¡Qué bonita y compleja a la vez, como las mejores cosas de esta vida, que son difíciles pero apasionantes!</p>
+
+     <h3> De los celtas a los castreños: la identidad gallega</h3>
+
+    <p>Osea que, pasamos de unos celtas rubios y altos que venían de Centroeuropa y se asientan en el noroeste peninsular trayendo toda su tradición con ellos y siendo esta compartida por todas las naciones célticas sobre las que se asentaban, luego pensamos que es mejor hablar de castreños en alusión al registro arqueológico que nos habla de unos útiles encontrados que no se corresponden con otras industrias de otros lugares, con la cual tiene que tratarse de una cultura (cultura que no raza) desarrollada en el interior peninsular (aunque esto no quita que bebiesen un poco del exterior en base a intercambios comerciales de algún tipo) y luego pasamos a la conquista romana y los llamamos “creadores de Galicia” por traernos el latín y llamar a esto “Gallaecia”.</p>
+
+    <p>Y los musulmanes no. Osea, los romanos, que también son emigrantes si utilizamos la palabra en sentido estricto, los adoptamos como parte de nuestro pasado peninsular, como un adentro de nuestra Historia. Y los musulmanes como un afuera.</p>
+
+    <p>¿Quieren saber por qué? Porque los musulmanes llegan en la Edad Media, en el año 711 d.C a la península y en la Edad Media las sociedades estaban formadas por Sistemas, y estos sistemas eran regidos por la religión. Es decir, no es que hubiera un poder bajo el cual se articulaba la religión, la cultura, la economía, el derecho... Al contrario, era la religión el elemento definitorio de los sistemas. La religión determinaba la política, la cultura, la economía, el derecho… Y claro, en la península Ibérica, ya estaba asentado un sistema cristiano en el reino de Toledo (desde tiempos del rey visigodo Recaredo en 587 que se convierte al catolicismo, y a todo esto, previamente, los suevos que se asentaban en la Gallaecia, se habrían convertido antes a esta religión, aunque luego fuesen obligados por los visigodos, precisamente, a volver al arrianismo, hasta que Recaredo lo cambiase).</p>
+
+     <h3> La conquista cristiana y la exclusión de los musulmanes </h3>
+
+    <p>Con un sistema cristiano consolidado, aunque los visigodos estuvieran enfrentados entre sí, y esa debilidad sirviese a los musulmanes para entrar en la península, inevitablemente lo que se da es un choque de dos sistemas totalmente contrarios en religión y, con el paso del tiempo, cuando los Reyes Católicos tomen como uno de sus requisitos el compartir la misma religión como elemento unificador de un conjunto político, es obvio que los musulmanes no son incluidos en sus planes. A pesar de ser, como los romanos, llegados de fuera. Y a pesar de ser los actuales españoles (y portugueses), inevitablemente, descendientes de ellos (porque que se mezclaron entre sí, creo que nadie podría negarlo, el ser humano nunca dejó de pelear pero tampoco de amar).</p>
+
+    <p>Con esta pequeña introducción, carente seguramente de mayor profesionalidad en las expresiones utilizadas así como ausente de datos realmente ejemplificantes, esperamos haber situado al lector, aunque sea mínimamente en los derroteros de la Historia, en el camino que los historiadores recorremos para ir visualizando en nuestras mentes cada uno de los hechos acontecidos y, no sólo verlos, sino entenderlos y, así, interiorizarlos, y hacer crecer a nuestra mente y espíritu con el nutritivo alimento que es la cultura.</p>
+
+    <p>Acompáñenme pues, de la mano, en este pequeño sendero al que llamaremos “Historia medieval de Galicia”, por simplificar, pero ahora que ya son más sabios, ya saben… Galicia no siempre se llamó así, no siempre ocupó lo que hoy ocupa, por un tiempo estaba unida a Portugal, en otro se separaron, pero sin peleas ni rencores en el modo en que hoy se pretende hacer ver, tuvo reyes “en” y reyes “de”, de cuando en vez tuvo independencia de gobierno y en otras estuvo incluida bajo un nombre de mayor peso político… Vamos a pasear por la Historia de esta pequeña región, hermana gemela de Portugal (aún a día de hoy, hasta prácticamente Coímbra, un gallego se siente como en casa, pues el norte de Portugal es, prácticamente, casa para un norteño del río Miño…) y esperemos que los brasileños se fascinen al visualizar todo lo que les aconteció a los que acabarían llevando el idioma que los diferencia del resto de Sudamérica.</p>

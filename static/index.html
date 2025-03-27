@@ -3,60 +3,167 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Timeline Integrada com Flask</title>
+    <title>Revista Stella Itineris</title>
 
     <!-- Script do timeline.js -->
     <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
 
-    <!-- Fonte Cinzel via Google Fonts (Agora antes de usá-la) -->
+    <!-- Fonte Cinzel via Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700&display=swap" rel="stylesheet">
-
-     <!-- Fonte Inria Sans via Google Fonts -->
-     <link href="https://fonts.googleapis.com/css2?family=Inria+Sans&display=swap" rel="stylesheet">
-
+    <link href="https://fonts.googleapis.com/css2?family=Inria+Sans&display=swap" rel="stylesheet">
 
     <!-- Estilos CSS do timeline.js -->
     <link rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
-
-    <!-- Estilos CSS do timeline.js -->
     <link rel="stylesheet" href="/static/timeline.css">
 
     <style>
-        /* Estilos para o corpo da página */
         body {
-            font-family: 'Arial', sans-serif; /* Fonte padrão */
-            background-color: #F0EAD9; /* Cor de fundo suave */
-            color: #4C4C4C; /* Cor do texto */
-            padding: 20px;
+            font-family: 'Inria Sans', sans-serif;
+            background-color: #F0EAD9;
+            color: #4C4C4C;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            font-family: 'Cinzel', serif;
+            color: #4C4C4C;
         }
 
-        /* Estilos para o título */
-        h2 {
-            font-family: 'Inria Sans', sans-serif; /* Fonte Inria Sans */
-            text-align: left; /* Alinha o título à esquerda */
-            color: #4C4C4C; /* Cor do título */
+        p {
+            line-height: 1.6;
+            text-align: justify; /* Justifica o texto */
         }
 
-        /* Ajustes no tamanho e layout da timeline */
+        .intro {
+            display: block;
+        }
+        .timeline-container {
+            display: none;
+        }
+        button {
+            background-color: #F0CC79;
+            border: none;
+            padding: 15px 30px;
+            margin: 10px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #e0b860;
+        }
         #timeline-embed {
             width: 100%;
             height: 600px;
-            border: 2px solid #F0CC79; /* Bordas suaves */
-            background-color: #fff; /* Fundo branco para o painel */
+            border: 2px solid #F0CC79;
+            background-color: #fff;
+        }
+        .buttons {
+            margin-top: 20px;
         }
 
-        /* Estilo adicional para links, se houver */
-        a {
-            color: #007bff; /* Cor padrão para links */
-            text-decoration: none; /* Sem sublinhado */
+        .text-image {
+            width: 100%;  
+            height: auto; /* Mantém a proporção da imagem */
+            object-fit: cover; /* Garante que a imagem cubra toda a largura sem deformação */
+            margin-bottom: 15px; /* Espaçamento entre a imagem e a caixa de texto */
+
+        }
+
+        .img-container {
+        margin-top: auto;
+        margin-bottom: auto;
+        position: relative;
+        border-right: 1px solid #e6e6e6;
+        padding-right: 20px;
+        float: left;
+        
+        /* Moldura */
+        border: 2.5px solid #e0b860; /* Moldura com cor escura */
+        
+        /* Sombra */
+        box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2); /* Sombra suave ao fundo */
+        
+        /* Ajuste de espaçamento */
+        padding: 10px; /* Espaçamento interno */
+        border-radius: 10px; /* Bordas arredondadas */
+        
+        background-color: #fff; /* Cor de fundo */
+          /* Aumenta o espaço lateral entre a imagem e a caixa de texto */
+        margin: 30px; /* Aumente esse valor conforme necessário */
+        }
+
+        .text-box {
+            background-color: #FFFFFF; /* Cor de fundo branco */
+            padding: 20px; /* Espaço interno para o texto não colar nas bordas */
+            margin-top: 20px; /* Distância para separar dos botões */
+            border: 2px solid #F0CC79; /* Borda de cor amarela-clara */
+            width: 80%; /* Largura relativa */
+            margin-left: auto; /* Centraliza a caixa */
+            margin-right: auto; /* Centraliza a caixa */
+            font-size: 16px; /* Tamanho de fonte para o texto */
+            color: #4C4C4C; /* Cor do texto */
         }
     </style>
 </head>
 <body>
     <h2>REVISTA STELLA ITINERIS</h2>
-    <div id="timeline-embed"></div>
+    <div class="intro">
+        <button onclick="showTimeline()">Explorar Línea del Tiempo</button>
+        <button onclick="showOtherContent()">Créditos</button>
+        <button onclick="window.location.href='https://stellaitineris.wordpress.com'">Página Principal</button>
 
-    <!-- Script para o arquivo script.js (se necessário) -->
+        <!-- Caixa em branco com texto -->
+        <div class="text-box" id="text-box">
+        </div>
+
+    </div>
+    
+    <div class="timeline-container">
+        <button onclick="goBack()">Regresar</button>
+        <button onclick="showOtherContent()">Créditos</button>
+        <button onclick="window.location.href='https://stellaitineris.wordpress.com'">Página Principal</button>
+        <div id="timeline-embed"></div>
+    </div>
+
+
+    <script>
+        function showTimeline() {
+            console.log("Botão pressionado: Explorando linha do tempo");
+            document.querySelector('.intro').style.display = 'none';
+            document.querySelector('.timeline-container').style.display = 'block';
+        }
+
+        function goBack() {
+            console.log("Botão pressionado: Voltando para introdução");
+            document.querySelector('.timeline-container').style.display = 'none';
+            document.querySelector('.intro').style.display = 'block';
+        }
+
+        function showOtherContent() {
+            console.log("Outro botão pressionado. Adicione funcionalidade aqui se necessário.");
+        }
+
+        // Função para carregar o conteúdo de um arquivo externo e inserir na text-box
+        function loadExternalText() {
+        fetch('/static/textfile.txt') // Caminho para o arquivo de texto
+        .then(response => response.text()) // Lê o conteúdo do arquivo como texto
+        .then(data => {
+            // Insere o conteúdo do arquivo na div com id "text-box"
+            document.getElementById('text-box').innerHTML = data;
+        })
+        .catch(error => {
+            console.error('Erro ao carregar o arquivo:', error);
+            // Caso haja erro, podemos adicionar um texto alternativo ou uma mensagem de erro
+            document.getElementById('text-box').innerHTML = 'Erro ao carregar o conteúdo.';
+        });
+        }
+
+        // Carregar o conteúdo ao carregar a página
+        window.onload = loadExternalText;
+    </script>
+
+    <!-- Script para o arquivo script.js -->
     <script src="/static/script.js"></script>
 </body>
 </html>
