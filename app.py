@@ -49,7 +49,7 @@ def get_timeline():
             },
             "text": {
                 "headline": "Historia Medieval Gallego-Portuguesa",
-                "text": "<p>Una línea del tiempo sobre los eventos más importantes en la historia de Galicia, desde la época romana hasta la Edad Media.</p>"
+                "text": "<p>Fechas, acontecimientos y personajes más relevantes de la Historia medieval de Galicia por orden cronológico.</p>"
             }
         },
         "events": events
